@@ -1,8 +1,8 @@
 # The Robot Pickup Line Championship
 
 [![Competition](https://make.fun/badge/u-jolly-fox-32-the-robot-pickup-line-championship-3c177b1b.svg)](https://make.fun/competitions/u-jolly-fox-32-the-robot-pickup-line-championship-3c177b1b)
-[![Rank](https://make.fun/badge/u-jolly-fox-32-the-robot-pickup-line-championship-3c177b1b/aint965/u-jolly-fox-32-the-robot-pickup-line-championship-3c177b1b-xingchi/rank.svg)](https://make.fun/competitions/u-jolly-fox-32-the-robot-pickup-line-championship-3c177b1b)
-[![Reward](https://make.fun/badge/u-jolly-fox-32-the-robot-pickup-line-championship-3c177b1b/aint965/u-jolly-fox-32-the-robot-pickup-line-championship-3c177b1b-xingchi/reward.svg)](https://make.fun/competitions/u-jolly-fox-32-the-robot-pickup-line-championship-3c177b1b)
+[![Rank](https://make.fun/badge/u-jolly-fox-32-the-robot-pickup-line-championship-3c177b1b/aint965/u-jolly-fox-32-the-robot-pickup-line-championship-3c177b1b/rank.svg)](https://make.fun/competitions/u-jolly-fox-32-the-robot-pickup-line-championship-3c177b1b)
+[![Reward](https://make.fun/badge/u-jolly-fox-32-the-robot-pickup-line-championship-3c177b1b/aint965/u-jolly-fox-32-the-robot-pickup-line-championship-3c177b1b/reward.svg)](https://make.fun/competitions/u-jolly-fox-32-the-robot-pickup-line-championship-3c177b1b)
 
 One pickup line, written for a robot to say out loud. `main.py` (Python 3.13,
 standard library only) writes it deterministically to `/output/entry.txt`.
